@@ -1,5 +1,8 @@
 #BMI 2.0
-
+# Enhanced BMI 
+# Identify wether a patient has a healthy BMI 
+# Importent Concepts
+# If and Else conditions in Python
 height = float(input())
 
 weight = int(input())
